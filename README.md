@@ -1,64 +1,19 @@
-# 🚀 Vishwajeet Vishwakarma  
-**Data Analyst | Business Intelligence | SQL | Power BI | Python | Core Java**
+# 💫 About Me:
+# 🚀 Vishwajeet Vishwakarma  <br>### Data Analyst | SQL | Power BI | Python | Business Intelligence  <br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=jeetkumar19&label=Profile%20Views&color=0e75b6&style=flat" /><br>  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success?style=flat" /><br>  <img src="https://img.shields.io/github/followers/jeetkumar19?label=Followers&style=social" /><br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>I analyze data with one goal — turn numbers into business decisions.<br><br>- Strong foundation in **SQL & Data Modeling**<br>- Build interactive **Power BI KPI dashboards**<br>- Perform **Customer Churn & Funnel Analysis**<br>- Automate workflows using **Python (Pandas, NumPy, Matplotlib)**<br><br>Currently preparing for full-time **Data Analyst roles** by building production-style analytics projects.<br><br>---<br><br>## 🔭 I’m Currently Working On<br><br>- 📉 Customer Churn & Retention Analysis  <br>- 📊 Marketing Funnel Conversion Optimization  <br>- 💰 Revenue & KPI Performance Dashboards  <br>- 🐍 Advanced Python for Data Analysis  <br><br>---<br><br>## 🤝 I’m Looking to Collaborate On<br><br>- Real-world business datasets  <br>- SQL query optimization projects  <br>- Data storytelling dashboards  <br>- Startup analytics challenges  <br><br>---<br><br>## 🧠 Ask Me About<br><br>- Complex SQL Queries & Joins  <br>- Star Schema & Dimensional Modeling  <br>- DAX Calculations in Power BI  <br>- Funnel Drop-Off Analysis  <br>- KPI Dashboard Design  <br><br>---<br><br>## 🛠 Tech Stack<br><br>### 📊 Data & Analytics<br>![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>### ⚙ Technical Foundations<br>![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![ETL](https://img.shields.io/badge/ETL-Data_Transformation-blue?style=for-the-badge)<br>![Data Modeling](https://img.shields.io/badge/Dimensional_Modeling-Star_Schema-green?style=for-the-badge)<br><br>---<br><br># 📌 Featured Projects<br><br>## 🔹 Customer Churn Analysis<br>- Identified high-risk customer segments  <br>- Performed behavioral segmentation  <br>- Delivered retention-focused insights  <br><br>## 🔹 Sales Intelligence Dashboard<br>- Built interactive Power BI dashboard  <br>- Tracked revenue trends & KPIs  <br>- Improved performance visibility  <br><br>## 🔹 Marketing Funnel Analysis<br>- Analyzed user journey drop-offs  <br>- Detected stage-wise conversion gaps  <br>- Suggested optimization strategies  <br><br>## 🔹 Python Data Workflows<br>- Automated data cleaning with Pandas  <br>- Conducted exploratory data analysis  <br>- Generated visual insights using Matplotlib  <br><br>---<br><br># 📈 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=jeetkumar19&show_icons=true&theme=tokyonight&hide_border=true" height="170"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetkumar19&layout=compact&theme=tokyonight&hide_border=true" height="170"/><br></p><br><br>---<br><br># 🎯 2026 Goal<br><br>Build strong portfolio projects with measurable impact and secure a full-time Data Analyst position.<br><br>---<br><br># 📫 Connect With Me<br><br><p><br><a href="https://www.linkedin.com/in/vishwajeetvishwakarma/"><br>  <img src="https://img.shields.io/badge/LinkedIn-Vishwajeet%20Vishwakarma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br></p>
 
-I design SQL-driven data models and interactive Power BI dashboards that help businesses improve retention, optimize marketing funnels, and track revenue performance through actionable insights.
 
-Expanding expertise in advanced Python for data science while preparing for full-time Data Analyst roles.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet vishwakarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeet31054@gmail.com) 
 
----
-
-## 🔭 Current Focus
-- **Customer Churn & Retention Analysis** (Ravenstack & Future Intern)  
-- **Marketing Funnel & Conversion Optimization**  
-- **KPI Performance & Revenue Intelligence Dashboards**
-
----
-
-## 🛠 Core Skills
-
-| Data & Analytics | Technical Foundations |
-| :--- | :--- |
-| **SQL** (MySQL, SQL Server) | **Core Java** (OOPs, Logic Building) |
-| **Power BI** (DAX, Data Modeling) | **ETL Processes** & Data Transformation |
-| **Excel** (Power Query, Dashboards) | **Dimensional Modeling** (Star Schema) |
-| **Python** (Pandas, NumPy, Matplotlib) | Data Cleaning & KPI Reporting |
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jeetkumar19&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jeetkumar19&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetkumar19&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jeetkumar19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Featured Projects
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- **Customer Churn Analysis:** Identified retention risks by analyzing behavioral patterns and segmentation techniques.  
-- **Sales Intelligence Dashboard:** Built interactive Power BI dashboards to monitor revenue trends and business KPIs.  
-- **Conversion & Funnel Optimization:** Evaluated user journey stages to detect drop-offs and improve conversion performance.  
-- **Python Data Workflows:** Automated data cleaning and performed exploratory analysis using Pandas and visualization libraries.
-
----
-
-## 💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetkumar19&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetkumar19&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwajeetvishwakarma/)
-
-
-<!--
-**jeetkumar19/jeetkumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
